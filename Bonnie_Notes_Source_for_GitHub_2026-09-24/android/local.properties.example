@@ -1,0 +1,4 @@
+sdk.dir=/path/to/Android/Sdk
+BACKEND_URL=https://notes.example.com/
+APP_UPLOAD_TOKEN=replace-with-the-same-long-random-value-as-the-server
+
